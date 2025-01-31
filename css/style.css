@@ -57,7 +57,7 @@ div {
 }
 
 .blue h2, .blue p {
-    color: #C4C4C4
+    color: #C4C4C4;
 }
 
 .yellow {
@@ -81,7 +81,7 @@ div {
 }
 
 footer {
-    background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);   
+    background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
     border: 5px solid white;
 }
 
